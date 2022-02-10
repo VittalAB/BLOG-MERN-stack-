@@ -1,1 +1,1 @@
-"Mern stack app" 
+MERN Stack Blog Application
